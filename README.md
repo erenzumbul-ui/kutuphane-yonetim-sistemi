@@ -10,7 +10,7 @@
 
 Eklediğimiz üyeleri ve kitapları silebiliriz. 
 
-Programın görünüşü bu şekildedir: 
+> Programın görünüşü bu şekildedir: 
 
 ![image](https://github.com/user-attachments/assets/09de6a90-b1c6-41ec-9185-d7a8a2ab49a4)
 
